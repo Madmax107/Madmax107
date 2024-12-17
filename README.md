@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ASP.NET, C# and MS SQL**
 
-- 📫 How to reach me **riteshkadam479@gmail.com**
+- 📫 How to reach me **riteshkadam107@gmail.com**
 
 - ⚡ Fun fact **"My first code was a simple 'Hello World' in C, and now I'm developing full-stack applications – talk about growth!"**
 

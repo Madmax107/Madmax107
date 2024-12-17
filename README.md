@@ -1,4 +1,4 @@
-![Header](assets/github-header-image1.png)
+![Header](assets/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Ritesh Kadam</h1>
 <h3 align="center">Building ideas into reality – A dedicated coder from India.</h3>

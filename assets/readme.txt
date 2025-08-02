@@ -1,4 +1,4 @@
-![Header](assets/github-header.png)
+![Header](assets/Data Analyst Header.png)
 
 <h1 align="center">Hi 👋, I'm Ritesh Kadam</h1>
 <h3 align="center">Building ideas into reality – A dedicated coder from India.</h3>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadamritesh&show_icons=true&locale=en" alt="kadamritesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadamritesh&" alt="kadamritesh" /></p>
+

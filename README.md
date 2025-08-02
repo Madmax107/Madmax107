@@ -1,4 +1,4 @@
-![Header](assets/github-header.png)
+![Header](assets/Github-Header.png)
 
 <h1 align="center">Hi 👋, I'm Ritesh Kadam</h1>
 <h3 align="center">Turning Raw Data into Real Decisions</h3>
